@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        second_to_last_line();
+        last_line();
+    }
+    public static void second_to_last_line() {
+    System.out.println("I don't know why she swallowed that fly,");
+    }
+    public static void last_line() {
+    System.out.println("Perhaps she'll die.");
+        }
+}
