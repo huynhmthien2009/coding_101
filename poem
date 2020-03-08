@@ -1,12 +1,32 @@
 public class Main {
     public static void main(String[] args) {
+        old_woman();
+        dog_cat();
+        cat_bird();
+        bird_spider();
+        spider_fly();
         second_to_last_line();
         last_line();
     }
+    public static void dog_cat() {
+        System.out.println("She swallowed the dog to catch the cat");
+    }
+    public static void cat_bird() {
+        System.out.println("She swallowed the cat to catch the bird");
+    }
+    public static void bird_spider() {
+        System.out.println("She swallowed the bird to catch the spider");
+    }
+    public static void spider_fly() {
+        System.out.println("She swallowed the spider to catch the fly,");
+    }
+    public static void old_woman() {
+        System.out.println("There was an old woman who swallowed a fly.");
+    }
     public static void second_to_last_line() {
-    System.out.println("I don't know why she swallowed that fly,");
+        System.out.println("I don't know why she swallowed that fly,");
     }
     public static void last_line() {
-    System.out.println("Perhaps she'll die.");
+        System.out.println("Perhaps she'll die.");
         }
 }
