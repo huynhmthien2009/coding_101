@@ -1,12 +1,61 @@
 public class Main {
     public static void main(String[] args) {
         old_woman();
+        second_to_last_line();
+        last_line();
+        second_paragraph();
+        spider_fly();
+        second_to_last_line();
+        last_line();
+        third_paragraph();
+        cat_bird();
+        bird_spider();
+        spider_fly();
+        second_to_last_line();
+        last_line();
+        fourth_paragraph();
         dog_cat();
         cat_bird();
         bird_spider();
         spider_fly();
         second_to_last_line();
         last_line();
+        fifth_paragraph();
+        bear_dog();
+        dog_cat();
+        cat_bird();
+        bird_spider();
+        spider_fly();
+        second_to_last_line();
+        last_line();
+        last_paragraph();
+    }
+    public static void second_paragraph() {
+        System.out.println("There was an old woman who swallowed a spider");
+        System.out.println("That wriggled and iggled and jiggled inside her.");
+    }
+    public static void third_paragraph() {
+        System.out.println("There was an old woman who swallowed a bird,");
+        System.out.println("How absurd to swallow a bird.");
+    }
+    public static void fourth_paragraph() {
+        System.out.println("There was an old woman who swallowed a cat,");
+        System.out.println("Imagine that to swallow a cat.");
+    }
+    public static void fifth_paragraph() {
+        System.out.println("There was an old woman who swallowed a dog,");
+        System.out.println("What a hog to swallow a dog.");
+    }
+    public static void sixth_paragraph() {
+        System.out.println("There was an old woman who swallwed a bear,");
+        System.out.println("Whoa there to swallow a bear.");
+    }
+    public static void last_paragraph() {
+        System.out.println("There was on old woman who swallowed a horse,");
+        System.out.println("She died of course.");
+    }
+    public static void bear_dog() {
+        System.out.println("She swalloed the bear to catch the dog,");
     }
     public static void dog_cat() {
         System.out.println("She swallowed the dog to catch the cat");
@@ -27,6 +76,6 @@ public class Main {
         System.out.println("I don't know why she swallowed that fly,");
     }
     public static void last_line() {
-        System.out.println("Perhaps she'll die.");
+        System.out.println("Perhaps she'll die.\n");
         }
 }
