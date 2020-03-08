@@ -47,7 +47,7 @@ public class Main {
         System.out.println("What a hog to swallow a dog.");
     }
     public static void sixth_paragraph() {
-        System.out.println("There was an old woman who swallwed a bear,");
+        System.out.println("There was an old woman who swallowed a bear,");
         System.out.println("Whoa there to swallow a bear.");
     }
     public static void last_paragraph() {
@@ -55,7 +55,7 @@ public class Main {
         System.out.println("She died of course.");
     }
     public static void bear_dog() {
-        System.out.println("She swalloed the bear to catch the dog,");
+        System.out.println("She swallowed the bear to catch the dog,");
     }
     public static void dog_cat() {
         System.out.println("She swallowed the dog to catch the cat");
